@@ -1,1 +1,1 @@
-### *Simple Guessing Game and Memory game*
+### *Simple Guessing Game and Memory game using execptions*
