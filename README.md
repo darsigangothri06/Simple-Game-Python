@@ -1,2 +1,1 @@
-# Simple-Game-Python
-Simple program in python
+### *Simple Guessing Game and Memory game*
