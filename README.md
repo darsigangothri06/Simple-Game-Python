@@ -1,1 +1,1 @@
-### *Simple Guessing Game and Memory game using exceptional case.*
+### *Simple Python Guessing Game and Memory game using exceptional case.*
